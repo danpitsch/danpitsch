@@ -10,10 +10,10 @@ I am Daniel Pitsch, the founder of FuzionWorx, an IT Services company in the gre
 - Accomplished formal and informal presenter for all levels of audience
 
 # Technical Skills
-**Languages:**
-JavaScript, TypeScript, Java, J2EE, C, C++, GO, Visual Basic, C#, VBA, HTML, XML, XSLT, Python, PL/SQL, TSQL, .NET, PHP, Perl, Fortran
-**Frameworks & Libraries:**
-React, Next.JS, Angular, Nest.JS, NX, JSP, ASP, HTTP, LDIF, CGI, ODBC/JDBC, UML, Hibernate, Spring, PowerShell, UNIX Shell (bash, sh, ksh, csh), awk, sed, grep
+Languages:
+--JavaScript, TypeScript, Java, J2EE, C, C++, GO, Visual Basic, C#, VBA, HTML, XML, XSLT, Python, PL/SQL, TSQL, .NET, PHP, Perl, Fortran
+Frameworks & Libraries:
+--React, Next.JS, Angular, Nest.JS, NX, JSP, ASP, HTTP, LDIF, CGI, ODBC/JDBC, UML, Hibernate, Spring, PowerShell, UNIX Shell (bash, sh, ksh, csh), awk, sed, grep
 **App/Web Server:**
 Node.JS, Apache, Tomcat, IIS, Nginx, JBoss, WebLogic, 
 **Software Tools:**
