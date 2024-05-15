@@ -37,14 +37,16 @@ I am Daniel Pitsch, the founder of FuzionWorx, an IT Services company in the gre
 </dl>
 
 # Key Projects
-**FuzionWorx IT Architecture:**
-Complete Architecture, Design, Development, Deployment and Operations of virtual enterprise network, private cloud and remote employee collaboration.
-**Stealth Startup SaaS:**
-System Architecture, Design, and lead developer for a startup SaaS for Enterprise Architecture.
-**NIH Human Capital Management:**
-Custom Nintex/K2 application, recipient of FedHealthIT Innovation Award.
-**Veterans Affairs Inbound e-Prescibing:**
-Modern web based external e-Presciption gateway, user interface and backend integration with VA legacy systems.
+<dl>
+<dt>FuzionWorx IT Architecture:</dt>
+<dd>Complete Architecture, Design, Development, Deployment and Operations of virtual enterprise network, private cloud and remote employee collaboration.</dt>
+<dt>Stealth Startup SaaS:</dt>
+<dd>System Architecture, Design, and lead developer for a startup SaaS for Enterprise Architecture.</dt>
+<dt>NIH Human Capital Management:</dt>
+<dd>Custom Nintex/K2 application, recipient of FedHealthIT Innovation Award.</dt>
+<dt>Veterans Affairs Inbound e-Prescibing:</dt>
+<dd>Modern web based external e-Presciption gateway, user interface and backend integration with VA legacy systems.</dt>
+</dl>
 
 # Professional Goals
 Career Development: Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
