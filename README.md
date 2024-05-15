@@ -12,45 +12,29 @@ I am Daniel Pitsch, the founder of FuzionWorx, an IT Services company in the gre
 # Technical Skills
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-
-<dt>Languages</dt>
-<dd>JavaScript, TypeScript, Java, J2EE, C, C++, GO, Visual Basic, C#, VBA, HTML, XML, XSLT, Python, PL/SQL, TSQL, .NET, PHP, Perl, Fortran</dd>
-
-<dt>Frameworks & Libraries</dt>
-<dd>React, Next.JS, Angular, Nest.JS, NX, JSP, ASP, HTTP, LDIF, CGI, ODBC/JDBC, UML, Hibernate, Spring, PowerShell, UNIX Shell (bash, sh, ksh, csh), awk, sed, grep</dd>
-
-<dt>App/Web Server</dt>
-<dd>Node.JS, Apache, Tomcat, IIS, Nginx, JBoss, WebLogic</dd>
+  <dt>Languages</dt>
+  <dd>JavaScript, TypeScript, Java, J2EE, C, C++, GO, Visual Basic, C#, VBA, HTML, XML, XSLT, Python, PL/SQL, TSQL, .NET, PHP, Perl, Fortran</dd>
+  <dt>Frameworks & Libraries</dt>
+  <dd>React, Next.JS, Angular, Nest.JS, NX, JSP, ASP, HTTP, LDIF, CGI, ODBC/JDBC, UML, Hibernate, Spring, PowerShell, UNIX Shell (bash, sh, ksh, csh), awk, sed, grep</dd>
+  <dt>App/Web Server</dt>
+  <dd>Node.JS, Apache, Tomcat, IIS, Nginx, JBoss, WebLogic</dd>
+  <dt>Software Tools:</dt>
+  <dd>Visual Studio Code, Visual Studio/.NET, Visual Studio for Applications, Eclipse, Ant, Maven, JDeveloper, JBuilder, GIT, JIRA, Bugzilla, SVN, CVS, RCS, SCCS</dd>
+  <dt>Cloud Technologies:</dt>
+  <dd>AWS (EC, S3, RDS, ELB, VCP), Azure (AD, VM, VNET, Azure SQL), Kubernettes, Docker, VMWare (VMWare Server, vSphere), Microsoft  Hyper-v, Linux KVM, OpenStack, MicroStack, MicroCloud</dd>
+  <dt>Data Science & AI:</dt>
+  <dd>Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.</dd>
+  <dt>LoCode/NoCode:</dt>
+  <dd>Nintex K2, Bizagi, BizFlow, Budibase, WordPress, NodeRed, ToolJet</dd>
+  <dt>Databases:</dt>
+  <dd>Oracle Database, SQL Server, Sybase, MySQL, MariaDB, PostgresSQL, SQLite, SQL*Plus, SQL Developer, SQL*Loader, Oracle Warehouse Builder, Oracle Enterprise Manager, MS SQL Server Management Studio, Turso, PlanetScale</dd>
+  <dt>Operating Systems:</dt>
+  <dd>MS DOS (1.0 <> 6.0), MS Windows (1.0 > 11), MS Windows Server (3.1 <> 2021), Redhat Enterprise Linux (4 <> 7), Ubuntu Linux (6 <> 24), Suse Linux, Solaris, HP-UX, SunOS, AIX, IRIX, Free BSD</dd>
+  <dt>BI Applications/Technologies:</dt>
+  <dd>GraphQL, Qlik Desktop/Sense, SAS Enterprise Guide, SAS Enterprise Miner, SAS Enterprise Server, VisualLinks</dd>
+  <dt>AI/Machine Learning:</dt>
+  <dd>Jupyter Notebook/Lab, Llama LLM (7B, 13B, 34B, 70B), Ollama, CodeLlama, OpenAI, LangChain, Pandas, SciKit, Keras</dd>
 </dl>
-
-**Software Tools:**
-Visual Studio Code, Visual Studio/.NET, Visual Studio for Applications, Eclipse, Ant, Maven, JDeveloper, JBuilder, GIT, JIRA, Bugzilla, SVN, CVS, RCS, SCCS
-
-**Cloud Technologies:**
-AWS (EC, S3, RDS, ELB, VCP), Azure (AD, VM, VNET, Azure SQL), Kubernettes, Docker, VMWare (VMWare Server, vSphere), Microsoft  Hyper-v, Linux KVM, OpenStack, MicroStack, MicroCloud
-
-**Data Science & AI:**
-Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
-
-**LoCode/NoCode:**
-Nintex K2, Bizagi, BizFlow, Budibase, WordPress, NodeRed, ToolJet
-
-**Databases:**
-Oracle Database, SQL Server, Sybase, MySQL, MariaDB, PostgresSQL, SQLite, SQL*Plus, SQL Developer, SQL*Loader, Oracle Warehouse Builder, Oracle Enterprise Manager, MS SQL Server Management Studio, Turso, PlanetScale
-
-**Operating Systems:**
-MS DOS (1.0 <> 6.0), MS Windows (1.0 > 11), MS Windows Server (3.1 <> 2021), Redhat Enterprise Linux (4 <> 7), Ubuntu Linux (6 <> 24), Suse Linux, Solaris, HP-UX, SunOS, AIX, IRIX, Free BSD
-
-**BI Applications/Technologies:**
-GraphQL, Qlik Desktop/Sense, SAS Enterprise Guide, SAS Enterprise Miner, SAS Enterprise Server, VisualLinks
-
-**AI/Machine Learning:**
-Jupyter Notebook/Lab, Llama LLM (7B, 13B, 34B, 70B), Ollama, CodeLlama, OpenAI, LangChain, Pandas, SciKit, Keras
 
 # Key Projects
 **FuzionWorx IT Architecture:**
