@@ -2,7 +2,7 @@
 I am Daniel Pitsch, the founder of FuzionWorx, an IT Services company in the greater Minneapolis, MN area.  FuzionWorx performs software consulting, development and operaations services, specializing in modern web application/SaaS platforms for public/private/hybrid cloud and integration with AI/ML technologies.
 
 # About Me
-- Highly skilled and knowledgeable Systems Engineer
+- Highly skilled and knowledgeable Software Engineer
 - Extensive software architecture, development and system administration/operations experience
 - Excellent long-range, vision-oriented strategic planning skills
 - Sound individual and team leadership skills
