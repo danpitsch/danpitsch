@@ -5,7 +5,7 @@ I am Daniel Pitsch, the founder of FuzionWorx, an IT Services company in the gre
 - Highly skilled and knowledgeable Software Engineer
 - Extensive software architecture, development and system administration/operations experience
 - Excellent long-range, vision-oriented strategic planning skills
-- Sound individual and team leadership skills
+- Effective individual and team leadership skills
 - Strong oral and written communication skills
 - Accomplished formal and informal presenter for all levels of audience
 
