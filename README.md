@@ -22,8 +22,8 @@ I am Daniel Pitsch, the founder of FuzionWorx, an IT Services company in the gre
   <dd>Visual Studio Code, Visual Studio/.NET, Visual Studio for Applications, Eclipse, Ant, Maven, JDeveloper, JBuilder, GIT, JIRA, Bugzilla, SVN, CVS, RCS, SCCS</dd>
   <dt>Cloud Technologies:</dt>
   <dd>AWS (EC, S3, RDS, ELB, VCP), Azure (AD, VM, VNET, Azure SQL), Kubernettes, Docker, VMWare (VMWare Server, vSphere), Microsoft  Hyper-v, Linux KVM, OpenStack, MicroStack, MicroCloud</dd>
-  <dt>Data Science & AI:</dt>
-  <dd>Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.</dd>
+  <dt>AI/Machine Learning:</dt>
+  <dd>Jupyter Notebook/Lab, Llama LLM, Ollama, CodeLlama, OpenAI API, LangChain, Pandas, SciKit, Keras</dd>
   <dt>LoCode/NoCode:</dt>
   <dd>Nintex K2, Bizagi, BizFlow, Budibase, WordPress, NodeRed, ToolJet</dd>
   <dt>Databases:</dt>
@@ -32,8 +32,6 @@ I am Daniel Pitsch, the founder of FuzionWorx, an IT Services company in the gre
   <dd>MS DOS (1.0 <> 6.0), MS Windows (1.0 > 11), MS Windows Server (3.1 <> 2021), Redhat Enterprise Linux (4 <> 7), Ubuntu Linux (6 <> 24), Suse Linux, Solaris, HP-UX, SunOS, AIX, IRIX, Free BSD</dd>
   <dt>BI Applications/Technologies:</dt>
   <dd>GraphQL, Qlik Desktop/Sense, SAS Enterprise Guide, SAS Enterprise Miner, SAS Enterprise Server, VisualLinks</dd>
-  <dt>AI/Machine Learning:</dt>
-  <dd>Jupyter Notebook/Lab, Llama LLM (7B, 13B, 34B, 70B), Ollama, CodeLlama, OpenAI, LangChain, Pandas, SciKit, Keras</dd>
 </dl>
 
 # Key Projects
